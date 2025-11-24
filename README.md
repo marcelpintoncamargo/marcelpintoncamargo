@@ -6,10 +6,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelpintoncamargo)](https://github.com/marcelpintoncamargo/github-readme-stats)
 <DOCTYPE HTML>
-<head>
+<header>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
+</header>
 <body>
   <i class="devicon-anaconda-original-wordmark colored"></i>
   <div style="background-color:white">
@@ -18,10 +18,9 @@
     <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpintoncamargo&layout=compact&langs_count=16&theme=dracula"/> -->
     <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+    <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
           
-          
-      
-</div>
+  </div>
 </body>
 
 </HTML>

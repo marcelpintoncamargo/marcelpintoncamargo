@@ -5,8 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelpintoncamargo)](https://github.com/marcelpintoncamargo/github-readme-stats)
-<HTML>
-  
+<DOCTYPE HTML>
 <head>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
